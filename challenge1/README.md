@@ -1,3 +1,3 @@
-#Challenge 1 using percentage and avoid heights
+# Challenge 1 using percentage and avoid heights
 
 
